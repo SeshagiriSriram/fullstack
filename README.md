@@ -64,8 +64,8 @@ graph TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/ajeetraina/demotestful.git
-cd demotestful
+git clone https://github.com/seshagirisriram/fullstack.git
+cd fullstack
 
 # Install dependencies
 npm install
